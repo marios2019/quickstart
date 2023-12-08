@@ -1,0 +1,4 @@
+baseURL = 'https://quickstart.io/'
+languageCode = 'en-us'
+title = 'Hugo Quickstart'
+theme = 'ananke'
